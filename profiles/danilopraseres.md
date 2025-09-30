@@ -7,9 +7,9 @@
 ### 🛠️ Tecnologias & Interesses
 - 🐍 Python & Engenharia de Software  
 - 🌐 Git & GitHub  
-- ☁️ Open Source  
+- ☁️ Open Source 
 - 📖 Aprendizado Contínuo na Área  
 
 ---
 
-🔹 *Contribuição:* Adicionei meu perfil ao repositório como parte do desafio de contribuição Open Source 🚀
+🔹 *Contribuição:* Adicionei meu perfil ao repositório como parte do desafio de contribuição Open Source, pretendendo aprender cada vez mais 🚀
